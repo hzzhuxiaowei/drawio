@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T06:32:04.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" version="14.4.7" etag="Z5rhFEe0lm6xQFSxW2Fi" type="github"><diagram id="6sVc83PK34M-kx0JzMM2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T06:35:19.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="C2k6sN28C6TT49JtBpqq" version="14.4.7" type="github">
+  <diagram id="6sVc83PK34M-kx0JzMM2" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="swiImJSWuZyiJvht4efO-1" value="Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-2" value="Panels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-3" value="Designer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-4" value="react" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-5" value="form-render" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-6" value="mobx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-7" value="react-dnd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-8" value="bundles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-9" value="ano-sdk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-10" value="assets-loader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="swiImJSWuZyiJvht4efO-11" value="render" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
